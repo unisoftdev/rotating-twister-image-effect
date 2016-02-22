@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.4" type="plugin" group="content">
+	<name>plg_content_twister</name>
+	<creationDate>20/02/2016</creationDate>
+	<license>GNU/GPL</license>
+	<version>1.0</version>
+	<author>Juraj Vysvader</author>
+	<copyright>Unisoftdev</copyright>
+	<authorEmail>juraj.vysvader@gmail.com</authorEmail>
+	<authorUrl>https://www.unisoftdev.tech/</authorUrl>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+	<description>This plugin should be rendering your images automatically, but if it will not happen, do not worry and read my documentation</description>
+	<files>
+                <filename plugin="twister">twister.php</filename>
+                <filename>index.html</filename>
+				<filename>twister.css</filename>
+        </files>
+		<config></config>
+</extension>
