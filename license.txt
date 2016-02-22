@@ -1,6 +1,10 @@
-Regular license
-This Regular license is not limited by any time of use and your rights of use Unisoftdev's product will not be expired after any time. You can include Unisoftdev's product in your own project, remix, redistribute and even you may charge your client for your services to create an end product, even under the Regular License. You can use it commercially within on-demand products/services.
+The MIT License (MIT)
+Further resources on The MIT License (MIT)
+The MIT License (MIT)
+Copyright (c) <year> <copyright holders>
 
-But you can't use Unisoftdev's product on multiple jobs, more than one website domain and any product distributed for more than one client. If you want to use our product on more clients, then you need to purchase again. Items purchased from Unisoftdev are limited to a single end product/service, or your personal needs. You can't use this license for projects to sell online like non-exclusive stock items/templates, or any else non-exclusive digital goods.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-When you you resell, or give for free our product to 3rd party subject, or Unisoftdev's product is included in any project that is made from you for somebody else, then all your rights from this license is obtaining that 3rd subject.
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
